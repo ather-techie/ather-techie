@@ -15,6 +15,7 @@ Innovative technology leader and architect with 22+ years crafting enterprise-sc
 Beyond code, I'm passionate about advancing tech through community—serving as hackathon judge, mentor, and speaker, actively contributing to IEEE initiatives, and guiding the next generation of engineers.
 
 💡 What I Do
+
 Design AI Systems: LLM architectures, RAG pipelines, agentic AI workflows, prompt engineering
 
 Build Cloud Infrastructure: Azure (AI Foundry, Functions, Cosmos DB), AWS (Lambda, SageMaker)
@@ -49,7 +50,9 @@ Specializations: Autonomous Agents | RAG Systems | LLM Orchestration | Agentic P
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Services: API Management | Functions/Lambda | Service Bus | Cosmos DB | App Insights | Data Factory | CI/CD Pipelines
+
 💻 Backend & Architecture
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat-square)
@@ -68,7 +71,9 @@ Patterns: Microservices | Event-Driven | MVVM | Repository | Dependency Injectio
 ---
 
 🏆 Featured Achievements
+
 🎖️ Awards & Recognition
+
 Super Star Award (2019) – Client recognition for critical technical delivery at Capgemini
 Spot Award (2019) – Hexaware Technologies excellence in delivery
 Top 150 Performer (2012-2013) – Oracle Talent Identification Program
@@ -82,12 +87,16 @@ Monolith to Microservices: Architected transition of legacy systems into scalabl
 ---
 
 🌱 Community & Leadership
+
 📍 IEEE & Professional Organizations
+
 Secretary, IEEE Young Professionals (Miami Section, 2026) – Leading professional development and technical events
 IEEE Day 2025 Ambassador – Promoting IEEE's global mission through community engagement
 IEEE TryEngineering STEM Grant Reviewer (2026) – Evaluating innovative STEM education proposals
 Chapter Lead, The AI Collective (Miami) – Driving AI education and responsible AI discussions
+
 🏫 Mentorship & Outreach
+
 Hackathon Judge & Mentor – University of Miami, FIU, Technovation Girls (200+ projects evaluated)
 Club Ambassador, Technovation Girls – Supporting young women in STEM through mentorship
 Guest Speaker – AI Ethics, LLM Architectures, Cloud Modernization at tech meetups
@@ -108,6 +117,7 @@ Technical Architect / Technical Lead | Jul 2014 – Jan 2020
 Architected transition of monolithic services to scalable microservices
 Designed auditing, logging, and exception handling frameworks with Azure App Insights
 Led Word Document Parser Tool development (team award winner)
+
 Oracle Financial Services Software | Baltimore, MD / India
 Technical Lead / Onsite-Offshore Coordinator | Sep 2007 – Jul 2014
 Delivered IT solutions for global banking industry using WPF, PRISM, SQL Server
@@ -122,6 +132,7 @@ Diploma in Advanced Software Technology (e-DAST) – CMC Limited, Mumbai (2001�
 ---
 
 🔗 Connect With Me
+
 <div align="center">
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -131,12 +142,14 @@ Diploma in Advanced Software Technology (e-DAST) – CMC Limited, Mumbai (2001�
 ---
 
 💬 Fun Facts
+
 🏆 Passionate about advancing technology for humanity through IEEE and community engagement
 🚀 Specialized in building intelligent systems that think, learn, and solve complex problems
 🌍 Experienced across global teams—comfortable with multi-timezone coordination
 📖 Always learning—currently deepening expertise in Agentic AI patterns and enterprise GenAI architectures
 🎓 Dedicated mentor helping the next generation of engineers succeed
 ---
+
 <div align="center">
 Open to collaborations on AI/ML projects, cloud architecture design, and mentorship opportunities 🤝
 "Technology at its best empowers humans and solves real-world problems."
