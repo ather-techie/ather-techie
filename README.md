@@ -1,8 +1,12 @@
 👋 Ather Husain
 Senior Software Engineer | AI/ML Architect | Tech Leader
+
 ![Profile Banner](https://img.shields.io/badge/Location-Miami%2C%20FL-0077B5?style=flat-square)
+
 ![Experience](https://img.shields.io/badge/Experience-22%2B%20Years-FF6B6B?style=flat-square)
+
 ![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20Cloud%20%7C%20Agentic%20AI-4ECDC4?style=flat-square)
+
 ---
 🎯 About Me
 Innovative technology leader and architect with 22+ years crafting enterprise-scale solutions across healthcare, banking, and insurance. I specialize in AI/ML system design, particularly in generative AI, autonomous agents, and cloud-native architectures.
