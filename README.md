@@ -23,6 +23,7 @@ Build Cloud Infrastructure: Azure (AI Foundry, Functions, Cosmos DB), AWS (Lambd
 Lead Technical Teams: Architecture design, onsite-offshore coordination, mentorship
 
 Drive Community: Hackathon judging, university guest speaking, STEM outreach
+
 ---
 
 🛠️ Technical Expertise
@@ -30,20 +31,16 @@ Drive Community: Hackathon judging, university guest speaking, STEM outreach
 🤖 AI & Generative AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-
 ![LangGraph](https://img.shields.io/badge/LangGraph-Advanced-9D4EDD?style=flat-square)
-
 ![OpenAI](https://img.shields.io/badge/OpenAI%2FAzure-412991?style=flat-square&logo=openai&logoColor=white)
-
 ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=flat-square)
-
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=white)
 
 Specializations: Autonomous Agents | RAG Systems | LLM Orchestration | Agentic Patterns | MCP (Model Context Protocol) | LangSmith Observability
 
 ☁️ Cloud & Infrastructure
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -75,15 +72,21 @@ Patterns: Microservices | Event-Driven | MVVM | Repository | Dependency Injectio
 🎖️ Awards & Recognition
 
 Super Star Award (2019) – Client recognition for critical technical delivery at Capgemini
+
 Spot Award (2019) – Hexaware Technologies excellence in delivery
+
 Top 150 Performer (2012-2013) – Oracle Talent Identification Program
+
 Team Award (2014) – Word Document Parser Tool innovation
+
 🔬 Technical Highlights
+
 Agentic AI Systems: Designed autonomous agents using LLMs with tool-use, self-correction, and multi-step problem-solving
 RAG Architecture: Built enterprise-scale RAG pipelines connecting LLMs to knowledge bases, improving response accuracy by 40%+
 MLOps & AIOps: Implemented end-to-end ML pipelines with model versioning, CI/CD, and production monitoring
 Enterprise Assistants: Led development of AI-powered assistants using Azure AI Foundry, AutoGen, and MCP orchestration
 Monolith to Microservices: Architected transition of legacy systems into scalable, cloud-native services
+
 ---
 
 🌱 Community & Leadership
@@ -101,6 +104,7 @@ Hackathon Judge & Mentor – University of Miami, FIU, Technovation Girls (200+ 
 Club Ambassador, Technovation Girls – Supporting young women in STEM through mentorship
 Guest Speaker – AI Ethics, LLM Architectures, Cloud Modernization at tech meetups
 Technical Mentor – Rapid prototyping, AI/ML, cloud-native practices
+
 ---
 
 📂 Experience Timeline
@@ -122,6 +126,7 @@ Oracle Financial Services Software | Baltimore, MD / India
 Technical Lead / Onsite-Offshore Coordinator | Sep 2007 – Jul 2014
 Delivered IT solutions for global banking industry using WPF, PRISM, SQL Server
 Recognized as Top 150 Performer (2012-2013)
+
 ---
 
 📚 Education
@@ -139,6 +144,7 @@ Diploma in Advanced Software Technology (e-DAST) – CMC Limited, Mumbai (2001�
 ![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 ![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +1 (571) 342-1123
 </div>
+
 ---
 
 💬 Fun Facts
@@ -148,6 +154,7 @@ Diploma in Advanced Software Technology (e-DAST) – CMC Limited, Mumbai (2001�
 🌍 Experienced across global teams—comfortable with multi-timezone coordination
 📖 Always learning—currently deepening expertise in Agentic AI patterns and enterprise GenAI architectures
 🎓 Dedicated mentor helping the next generation of engineers succeed
+
 ---
 
 <div align="center">
