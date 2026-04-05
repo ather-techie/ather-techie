@@ -144,8 +144,6 @@ Beyond software development, I am passionate about advancing technology through 
 
 [![Email](https://img.shields.io/badge/Email-ather.techie%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ather.techie@gmail.com)
 
-[![Phone](https://img.shields.io/badge/Phone-%2B1%20(571)%20342--1123-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+15713421123)
-
 ---
 
 ## 💬 Fun Facts
