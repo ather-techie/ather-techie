@@ -1,34 +1,30 @@
-👋 Ather Husain
-Senior Software Engineer | AI/ML Architect | Tech Leader
+# 👋 Ather Husain
+### Full Stack Lead Engineer | AI/ML | Technology Leader | Architect
 
-![Profile Banner](https://img.shields.io/badge/Location-Miami%2C%20FL-0077B5?style=flat-square)
-
+![Location](https://img.shields.io/badge/Location-Miami%2C%20FL-0077B5?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-22%2B%20Years-FF6B6B?style=flat-square)
-
 ![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20Cloud%20%7C%20Agentic%20AI-4ECDC4?style=flat-square)
 
 ---
-🎯 About Me
 
-Innovative technology leader and architect with 22+ years crafting enterprise-scale solutions across healthcare, banking, and insurance. I specialize in AI/ML system design, particularly in generative AI, autonomous agents, and cloud-native architectures.
+## 🎯 About Me
 
-Beyond code, I'm passionate about advancing tech through community—serving as hackathon judge, mentor, and speaker, actively contributing to IEEE initiatives, and guiding the next generation of engineers.
+Innovative technology leader and architect with 22+ years of experience delivering enterprise-scale solutions across healthcare, banking, and insurance. I specialize in AI/ML system design, with a strong focus on Generative AI, autonomous agents, and cloud-native architectures.
 
-💡 What I Do
+Beyond software development, I am passionate about advancing technology through community leadership. I serve as a hackathon judge, mentor, speaker, and IEEE volunteer, helping guide and inspire the next generation of engineers.
 
-Design AI Systems: LLM architectures, RAG pipelines, agentic AI workflows, prompt engineering
+## 💡 What I Do
 
-Build Cloud Infrastructure: Azure (AI Foundry, Functions, Cosmos DB), AWS (Lambda, SageMaker)
-
-Lead Technical Teams: Architecture design, onsite-offshore coordination, mentorship
-
-Drive Community: Hackathon judging, university guest speaking, STEM outreach
+- **Design AI Systems:** LLM architectures, RAG pipelines, agentic AI workflows, and prompt engineering
+- **Build Cloud Infrastructure:** Azure (AI Foundry, Functions, Cosmos DB) and AWS (Lambda, SageMaker)
+- **Lead Technical Teams:** Solution architecture, onsite-offshore coordination, and technical mentorship
+- **Drive Community Impact:** Hackathon judging, university guest speaking, and STEM outreach
 
 ---
 
-🛠️ Technical Expertise
+## 🛠️ Technical Expertise
 
-🤖 AI & Generative AI
+### 🤖 AI & Generative AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -37,18 +33,18 @@ Drive Community: Hackathon judging, university guest speaking, STEM outreach
 ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=flat-square&logo=huggingface&logoColor=white)
 
-Specializations: Autonomous Agents | RAG Systems | LLM Orchestration | Agentic Patterns | MCP (Model Context Protocol) | LangSmith Observability
+**Specializations:** Autonomous Agents • RAG Systems • LLM Orchestration • Agentic Patterns • MCP (Model Context Protocol) • LangSmith Observability
 
-☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Services: API Management | Functions/Lambda | Service Bus | Cosmos DB | App Insights | Data Factory | CI/CD Pipelines
+**Services:** API Management • Azure Functions / AWS Lambda • Service Bus • Cosmos DB • Application Insights • Data Factory • CI/CD Pipelines
 
-💻 Backend & Architecture
+### 💻 Backend & Architecture
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
@@ -57,107 +53,116 @@ Services: API Management | Functions/Lambda | Service Bus | Cosmos DB | App Insi
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-Patterns: Microservices | Event-Driven | MVVM | Repository | Dependency Injection | Design Patterns
+**Architectural Patterns:** Microservices • Event-Driven Architecture • MVVM • Repository Pattern • Dependency Injection • SOLID Principles
 
-🎨 Frontend
+### 🎨 Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square)
----
-
-🏆 Featured Achievements
-
-🎖️ Awards & Recognition
-
-Super Star Award (2019) – Client recognition for critical technical delivery at Capgemini
-
-Spot Award (2019) – Hexaware Technologies excellence in delivery
-
-Top 150 Performer (2012-2013) – Oracle Talent Identification Program
-
-Team Award (2014) – Word Document Parser Tool innovation
-
-🔬 Technical Highlights
-
-Agentic AI Systems: Designed autonomous agents using LLMs with tool-use, self-correction, and multi-step problem-solving
-RAG Architecture: Built enterprise-scale RAG pipelines connecting LLMs to knowledge bases, improving response accuracy by 40%+
-MLOps & AIOps: Implemented end-to-end ML pipelines with model versioning, CI/CD, and production monitoring
-Enterprise Assistants: Led development of AI-powered assistants using Azure AI Foundry, AutoGen, and MCP orchestration
-Monolith to Microservices: Architected transition of legacy systems into scalable, cloud-native services
 
 ---
 
-🌱 Community & Leadership
+## 🏆 Featured Achievements
 
-📍 IEEE & Professional Organizations
+### 🎖️ Awards & Recognition
 
-Secretary, IEEE Young Professionals (Miami Section, 2026) – Leading professional development and technical events
-IEEE Day 2025 Ambassador – Promoting IEEE's global mission through community engagement
-IEEE TryEngineering STEM Grant Reviewer (2026) – Evaluating innovative STEM education proposals
-Chapter Lead, The AI Collective (Miami) – Driving AI education and responsible AI discussions
+- **Super Star Award (2019)** – Client recognition for critical technical delivery at Capgemini
+- **Spot Award (2019)** – Recognized by Hexaware Technologies for delivery excellence
+- **Top 150 Performer (2012–2013)** – Oracle Talent Identification Program
+- **Team Award (2014)** – Recognized for innovation in the Word Document Parser Tool
 
-🏫 Mentorship & Outreach
+### 🔬 Technical Highlights
 
-Hackathon Judge & Mentor – University of Miami, FIU, Technovation Girls (200+ projects evaluated)
-Club Ambassador, Technovation Girls – Supporting young women in STEM through mentorship
-Guest Speaker – AI Ethics, LLM Architectures, Cloud Modernization at tech meetups
-Technical Mentor – Rapid prototyping, AI/ML, cloud-native practices
-
----
-
-📂 Experience Timeline
-
-Capgemini America Inc. | Miami, FL
-Technical Lead / Full Stack Developer | Jan 2020 – Present
-Designed autonomous AI agents solving multi-step problems via LLMs and tool-use
-Built AI-powered enterprise assistants using Azure AI Foundry + AutoGen + MCP orchestration
-Implemented RAG architectures connecting LLMs with enterprise knowledge bases
-Led cross-platform development using .NET MAUI; optimized REST APIs for high-scale performance
-
-Hexaware Technologies | Alpharetta, GA / India
-Technical Architect / Technical Lead | Jul 2014 – Jan 2020
-Architected transition of monolithic services to scalable microservices
-Designed auditing, logging, and exception handling frameworks with Azure App Insights
-Led Word Document Parser Tool development (team award winner)
-
-Oracle Financial Services Software | Baltimore, MD / India
-Technical Lead / Onsite-Offshore Coordinator | Sep 2007 – Jul 2014
-Delivered IT solutions for global banking industry using WPF, PRISM, SQL Server
-Recognized as Top 150 Performer (2012-2013)
+- Designed autonomous AI agents using LLMs with tool use, self-correction, and multi-step reasoning
+- Built enterprise-scale RAG pipelines that improved knowledge retrieval accuracy by more than 40%
+- Implemented end-to-end MLOps and AIOps pipelines with CI/CD, model versioning, and production monitoring
+- Led the development of AI-powered enterprise assistants using Azure AI Foundry, AutoGen, and MCP orchestration
+- Architected the migration of legacy monolithic systems into scalable, cloud-native microservices
 
 ---
 
-📚 Education
+## 🌱 Community & Leadership
 
-B.S. Computer Science – Maulana Azad Institute of Professional Studies (1998–2001)
+### 📍 IEEE & Professional Organizations
 
-Diploma in Advanced Software Technology (e-DAST) – CMC Limited, Mumbai (2001–2002)
+- **Secretary, IEEE Young Professionals – Miami Section (2026)**
+- **IEEE Day 2025 Ambassador**
+- **IEEE TryEngineering STEM Grant Reviewer (2026)**
+- **Chapter Lead, The AI Collective – Miami**
+
+### 🏫 Mentorship & Outreach
+
+- Hackathon Judge & Mentor – University of Miami, FIU, and Technovation Girls (200+ projects evaluated)
+- Club Ambassador, Technovation Girls – Supporting young women in STEM
+- Guest Speaker – AI Ethics, LLM Architectures, and Cloud Modernization
+- Technical Mentor – Rapid prototyping, AI/ML, and cloud-native practices
+
 ---
 
-🔗 Connect With Me
+## 📂 Experience Timeline
+
+### Capgemini America Inc. | Miami, FL
+**Technical Lead / Full Stack Developer**  
+*January 2020 – Present*
+
+- Designed autonomous AI agents capable of solving multi-step problems through LLMs and tool use
+- Built AI-powered enterprise assistants using Azure AI Foundry, AutoGen, and MCP orchestration
+- Implemented RAG architectures connecting LLMs with enterprise knowledge bases
+- Led cross-platform application development with .NET MAUI and optimized REST APIs for high-scale performance
+
+### Hexaware Technologies | Alpharetta, GA / India
+**Technical Architect / Technical Lead**  
+*July 2014 – January 2020*
+
+- Led the transformation of monolithic applications into scalable microservices
+- Designed enterprise auditing, logging, and exception handling frameworks using Azure Application Insights
+- Directed development of the award-winning Word Document Parser Tool
+
+### Oracle Financial Services Software | Baltimore, MD / India
+**Technical Lead / Onsite-Offshore Coordinator**  
+*September 2007 – July 2014*
+
+- Delivered enterprise banking solutions using WPF, PRISM, and SQL Server
+- Recognized as a Top 150 Performer during 2012–2013
+
+---
+
+## 📚 Education
+
+- **B.S. in Computer Science** – Maulana Azad Institute of Professional Studies (1998–2001)
+- **Diploma in Advanced Software Technology (e-DAST)** – CMC Limited, Mumbai (2001–2002)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ather%20Husain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ather-husain-2b58b866)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ather--techie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ather-techie)
+
+[![Email](https://img.shields.io/badge/Email-ather.techie%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ather.techie@gmail.com)
+
+[![Phone](https://img.shields.io/badge/Phone-%2B1%20(571)%20342--1123-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+15713421123)
+
+---
+
+## 💬 Fun Facts
+
+- 🏆 Passionate about advancing technology for humanity through IEEE and community engagement
+- 🚀 Specialized in building intelligent systems that think, learn, and solve complex problems
+- 🌍 Experienced in leading global teams across multiple time zones
+- 📖 Continuously learning and currently deepening expertise in Agentic AI and enterprise GenAI architectures
+- 🎓 Dedicated mentor helping the next generation of engineers succeed
+
+---
 
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +1 (571) 342-1123
+
+### Open to collaborations in AI/ML, cloud architecture, and mentorship 🤝
+
+*"Technology at its best empowers people and solves real-world problems."*
+
 </div>
 
----
-
-💬 Fun Facts
-
-🏆 Passionate about advancing technology for humanity through IEEE and community engagement
-🚀 Specialized in building intelligent systems that think, learn, and solve complex problems
-🌍 Experienced across global teams—comfortable with multi-timezone coordination
-📖 Always learning—currently deepening expertise in Agentic AI patterns and enterprise GenAI architectures
-🎓 Dedicated mentor helping the next generation of engineers succeed
-
----
-
-<div align="center">
-Open to collaborations on AI/ML projects, cloud architecture design, and mentorship opportunities 🤝
-"Technology at its best empowers humans and solves real-world problems."
-</div>
