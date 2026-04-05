@@ -131,7 +131,7 @@ Beyond software development, I am passionate about advancing technology through 
 
 ## 📚 Education
 
-- **B.S. in Computer Science** – Maulana Azad Institute of Professional Studies (1998–2001)
+- **BSc. in Computer Science** – Maulana Azad Institute of Professional Studies (1998–2001)
 - **Diploma in Advanced Software Technology (e-DAST)** – CMC Limited, Mumbai (2001–2002)
 
 ---
