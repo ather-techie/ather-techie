@@ -1,5 +1,5 @@
 # 👋 Ather Husain
-### Full Stack Lead Engineer | AI/ML | Technology Leader | Architect
+### Technical Lead at Capgemini | xOracle(OFSS) | Architect | Full Stack | Microsoft Stack | Azure | AWS | Angular | React | DevOps | SQL | NoSQL | AI Enthusiast | Speaker & Mentor | SMIEEE 
 
 ![Location](https://img.shields.io/badge/Location-Miami%2C%20FL-0077B5?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-22%2B%20Years-FF6B6B?style=flat-square)
