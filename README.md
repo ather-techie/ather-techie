@@ -103,32 +103,6 @@ Beyond software development, I am passionate about advancing technology through 
 
 ## 📂 Experience Timeline
 
-### Capgemini America Inc. | Miami, FL
-**Technical Lead / Full Stack Developer**  
-*January 2020 – Present*
-
-- Designed autonomous AI agents capable of solving multi-step problems through LLMs and tool use
-- Built AI-powered enterprise assistants using Azure AI Foundry, AutoGen, and MCP orchestration
-- Implemented RAG architectures connecting LLMs with enterprise knowledge bases
-- Led cross-platform application development with .NET MAUI and optimized REST APIs for high-scale performance
-
-### Hexaware Technologies | Alpharetta, GA / India
-**Technical Architect / Technical Lead**  
-*July 2014 – January 2020*
-
-- Led the transformation of monolithic applications into scalable microservices
-- Designed enterprise auditing, logging, and exception handling frameworks using Azure Application Insights
-- Directed development of the award-winning Word Document Parser Tool
-
-### Oracle Financial Services Software | Baltimore, MD / India
-**Technical Lead / Onsite-Offshore Coordinator**  
-*September 2007 – July 2014*
-
-- Delivered enterprise banking solutions using WPF, PRISM, and SQL Server
-- Recognized as a Top 150 Performer during 2012–2013
-
----
-
 ## 📚 Education
 
 - **BSc. in Computer Science** – Maulana Azad Institute of Professional Studies (1998–2001)
